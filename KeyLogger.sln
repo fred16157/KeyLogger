@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyLog", "KeyLog\KeyLog.csproj", "{B6377C3B-CCB0-4EFE-80A6-6D9715B0055A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyLogger_Server", "KeyLogger_Server\KeyLogger_Server.csproj", "{D5CFE1EF-850E-4168-96C0-4F8823CA0F4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6377C3B-CCB0-4EFE-80A6-6D9715B0055A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6377C3B-CCB0-4EFE-80A6-6D9715B0055A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6377C3B-CCB0-4EFE-80A6-6D9715B0055A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6377C3B-CCB0-4EFE-80A6-6D9715B0055A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5CFE1EF-850E-4168-96C0-4F8823CA0F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5CFE1EF-850E-4168-96C0-4F8823CA0F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5CFE1EF-850E-4168-96C0-4F8823CA0F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5CFE1EF-850E-4168-96C0-4F8823CA0F4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D031BF5E-E087-4756-AE81-DC88EBAF66B7}
+	EndGlobalSection
+EndGlobal
